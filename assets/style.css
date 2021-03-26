@@ -56,10 +56,10 @@ img#profileimage {
     background: #ffffff;
     border-style: solid;
     border-color: #dddddd;
-    height: 400px;
-    width: 800px;
+    height: 500px;
+    width: 900px;
     top: 137px;
-    position: fixed;
+    position: relative;
     text-align: left;
     margin-left: 20%;
     margin-right: 20%;
